@@ -1,2 +1,5 @@
-# AI-Powered-Workplace-Search-1
-“MCP Hackathon – Theme 2: AI-Powered Workplace Search.”
+# AI-Powered Workplace Search (Theme 2 – MCP Hackathon)
+
+Solo participant: Your Name  
+
+This repository will contain my MCP server for Theme 2 of the Descope MCP Hackathon.
